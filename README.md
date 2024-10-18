@@ -5,7 +5,7 @@ Welcome to **Text-Based Adventure Game**, an exciting journey starting from Cryn
 
 ## Features
 - **Storyline:** Experience a narrative as you interact with various characters and uncover secrets.
-- **Character Stats:** Manage your attack, defence, and potions throughout the adventure.
+- **Character Stats:** Manage your attack, defence, speed, intelligence and potions throughout the adventure.
 - **Multiple Choices:** Make decisions that affect the outcome of the story and your character’s journey.
 
 ## Getting Started
