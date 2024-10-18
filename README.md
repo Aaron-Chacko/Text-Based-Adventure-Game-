@@ -14,3 +14,7 @@ Welcome to **Text-Based Adventure Game**, an exciting journey starting from Cryn
 - **Android Studio**: Ensure you have the latest version of Android Studio installed on your machine.
 - **Java Development Kit (JDK)**: Install the JDK version compatible with Android Studio.
 - **Database**: SQLite used.
+
+##Installation
+-**Clone repository**
+gh repo clone Aaron-Chacko/Text-Based-Adventure-Game-
